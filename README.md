@@ -8,3 +8,4 @@
 * [2023/05/20](./20230520.md) : Nest.js
 * [2023/05/21](./20230521.md) : REST API
 * [2023/05/23](./20230523.md) : TableView Pagination
+* [2023/05/24](./20230524.md) : Simple MVVM Example
