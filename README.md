@@ -12,3 +12,4 @@
 * [2023/05/25](./Documentation/20230525.md) : Simple MVVM Example refactoring with RxSwift
 * [2023/05/26](./Documentation/20230526.md) : RxDataSource
 * [2023/05/27](./Documentation/20230527.md) : RxDataSource with ViewModel
+* [2023/05/28](./Documentation/20230528.md) : SwiftUI Group
