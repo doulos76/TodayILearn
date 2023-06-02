@@ -15,3 +15,6 @@
 * [2023/05/28](./Documentation/20230528.md) : SwiftUI Group
 * [2023/05/29](./Documentation/20230529.md) : Error handling with Networking
 * [2023/05/30](./Documentation/20230530.md) : RxSwift - CombineLatest
+
+### June
+* [2023/06/02](./Documentation/20230602.md) : RxSwift - FlatMap
